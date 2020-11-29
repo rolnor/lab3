@@ -1,0 +1,11 @@
+-What did you learn? What did you know already?
+Refreshed knowledge about pointers and memory management.
+
+-What was difficult in the lab? How did you overcome it?
+Github management still a bit difficult due to lack of practise.
+
+-How can the lab be improved?
+It was a good structured lab. Nothing comes to mind.
+
+-Write an estimate how many hours you spent on this lab.
+~2 work days.
